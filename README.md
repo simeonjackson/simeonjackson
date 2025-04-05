@@ -15,8 +15,8 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Josh | Twitter" width="22px" src="https://simpleicons.org/icons/hostinger.svg" />][twitter]
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.worldvectorlogo.com/logos/hostinger.svg" />][twitter]
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />][linkedin]
 
 [twitter]: https://twitter.com/Josh
 [linkedin]: https://www.linkedin.com/in/simeonrjackson
