@@ -6,7 +6,7 @@
 - <b>Infrastructure & Systems</b>
   - [Creating a Windows VM](https://github.com/simeonjackson/vm-setup)
   - [Configuring Active Directory](https://github.com/simeonjackson/ad-configure)
-  - [Adding Users to Active Directory with Powershell](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [Adding Users to Active Directory with Powershell](https://github.com/simeonjackson/adding-users)
   - [Group Policy Objects](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Networking & Security</b>
   - [Common Networking Commands](https://github.com/joshmadakorcc/configure-ad)
