@@ -7,11 +7,11 @@
   - [Creating a Windows VM](https://github.com/simeonjackson/vm-setup)
   - [Configuring Active Directory](https://github.com/simeonjackson/ad-configure)
   - [Adding Users to Active Directory with Powershell](https://github.com/simeonjackson/adding-users)
-  - [Group Policy Objects](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [Group Policy Objects](https://github.com/simeonjackson/group-policy)
 - <b>Networking & Security</b>
-  - [Common Networking Commands](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Analysis with Wireshark](https://github.com/joshmadakorcc/azure-network-protocols)
-  - [Cloud Security Hardening in Azure](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Common Networking Commands](https://github.com/simeonjackson/networking-commands)
+  - [Network Analysis with Wireshark](https://github.com/simeonjackson/wireshark)
+  - [Cloud Security Hardening in Azure](https://github.com/simeonjackson/cloud-security)
 
 <h2>🤳Connect with me:</h2>
 
