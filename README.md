@@ -4,7 +4,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Infrastructure & Systems</b>
-  - [Creating a Windows VM](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [Creating a Windows VM](https://github.com/simeonjackson/vm-setup)
   - [Configuring Active Directory](https://github.com/joshmadakorcc/post-install-config)
   - [Adding Users to Active Directory with Powershell](https://github.com/joshmadakorcc/ticket-lifecycle)
   - [Group Policy Objects](https://github.com/joshmadakorcc/ticket-lifecycle)
