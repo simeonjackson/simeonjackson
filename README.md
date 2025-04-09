@@ -1,5 +1,5 @@
 <h1>Hi, I'm Simeon, an <a href="https://www.linkedin.com/in/simeonrjackson/">IT Professional</a> 👋</h1>
-- 🌱 I'm actively growing my knowledge in all things IT, Networking & Security. Check out my <a href="https://www.linkedin.com/in/simeonrjackson/">blog</a> where I document my journey.
+- 🌱 I'm actively growing my knowledge in all things IT, Networking & Security. Check out my <a href="https://techwithsimeon.io/">blog</a> where I document my journey.
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -18,5 +18,5 @@
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.worldvectorlogo.com/logos/hostinger.svg" />][twitter]
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />][linkedin]
 
-[twitter]: https://twitter.com/Josh
+[twitter]: https://techwithsimeon.io/
 [linkedin]: https://www.linkedin.com/in/simeonrjackson
