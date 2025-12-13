@@ -1,5 +1,5 @@
 <h1>Hi, I'm Simeon, an <a href="https://www.linkedin.com/in/simeonrjackson/">IT Professional</a> 👋</h1>
-- 🌱 I'm actively growing my knowledge in all things IT, Networking & Security. Check out my <a href="https://techwithsimeon.io/">blog</a> where I document my journey.
+- 🌱 I'm actively growing my knowledge in all things Cloud, Networking & Security. Check out my <a href="https://techwithsimeon.io/">blog</a> where I document my journey.
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
