@@ -1,7 +1,10 @@
 <h1>Hi, I'm Simeon, an <a href="https://www.linkedin.com/in/simeonrjackson/">IT Professional</a> 👋</h1>
-- 🌱 I'm actively growing my knowledge in all things Cloud, Networking & Security. Check out my <a href="https://techwithsimeon.io/">blog</a> where I document my journey.
+- 🌱 I'm actively growing my knowledge in all things Cloud, Networking & Security. Check out my <a href="https://techwithsimeon.io/">blog</a> where I document my journey. I'm currently working towards AZ-104 certification and building an IAM focused lab.
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+
+
+
+<h2>👨‍💻 My Labs and Projects:</h2>
 
 - <b>Infrastructure & Systems</b>
   - [Creating a Windows VM](https://github.com/simeonjackson/vm-setup)
