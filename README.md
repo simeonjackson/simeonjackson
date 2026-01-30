@@ -7,12 +7,14 @@
 <h2>👨‍💻 My Labs and Projects:</h2>
 
 - <b>Infrastructure & Systems</b>
+  - [Highly Available Web App](https://github.com/simeonjackson/highly-available-webapp)
   - [Creating a Windows VM](https://github.com/simeonjackson/vm-setup)
   - [Configuring Active Directory](https://github.com/simeonjackson/ad-configure)
   - [Adding Users to Active Directory with Powershell](https://github.com/simeonjackson/adding-users)
   - [Group Policy Objects + Lockout Policy](https://github.com/simeonjackson/group-policy)
-- <b>Networking & Security</b>
+- <b>Networking, Monitoring, & Security</b>
   - [Common Networking Commands](https://github.com/simeonjackson/networking-commands)
+  - [Monitoring and Alerting in Azure](https://github.com/simeonjackson/monitor-alert)
   - [Network Analysis with Wireshark](https://github.com/simeonjackson/wireshark)
   - [Cloud Security Hardening in Azure](https://github.com/simeonjackson/cloud-security)
 
