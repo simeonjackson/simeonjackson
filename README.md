@@ -11,11 +11,12 @@
   - [Creating a Windows VM](https://github.com/simeonjackson/vm-setup)
   - [Configuring Active Directory](https://github.com/simeonjackson/ad-configure)
   - [Active Directory Troubleshooting with Powershell](https://github.com/simeonjackson/ad-troubleshooting)
-  - [Group Policy Objects + Lockout Policy](https://github.com/simeonjackson/group-policy)
+  - [Group Policy Management](https://github.com/simeonjackson/group-policy)
 - <b>Networking, Monitoring, & Security</b>
   - [Common Networking Commands](https://github.com/simeonjackson/networking-commands)
   - [Monitoring and Alerting in Azure](https://github.com/simeonjackson/monitor-alert)
   - [Network Analysis with Wireshark](https://github.com/simeonjackson/wireshark)
+  - [Group Policy Objects + Lockout Policy](https://github.com/simeonjackson/lockout-policy)
   - [Cloud Security Hardening in Azure](https://github.com/simeonjackson/cloud-security)
 
 <h2>🤳Connect with me:</h2>
