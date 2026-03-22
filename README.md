@@ -10,7 +10,7 @@
   - [Highly Available Web App](https://github.com/simeonjackson/highly-available-webapp)
   - [Creating a Windows VM](https://github.com/simeonjackson/vm-setup)
   - [Configuring Active Directory](https://github.com/simeonjackson/ad-configure)
-  - [Adding Users to Active Directory with Powershell](https://github.com/simeonjackson/adding-users)
+  - [Active Directory Troubleshooting with Powershell](https://github.com/simeonjackson/ad-troubleshooting)
   - [Group Policy Objects + Lockout Policy](https://github.com/simeonjackson/group-policy)
 - <b>Networking, Monitoring, & Security</b>
   - [Common Networking Commands](https://github.com/simeonjackson/networking-commands)
