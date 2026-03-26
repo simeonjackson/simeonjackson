@@ -16,6 +16,7 @@
   - [Active Directory Troubleshooting with Powershell](https://github.com/simeonjackson/ad-troubleshooting)
   - [Group Policy Management](https://github.com/simeonjackson/group-policy)
 - <b>Networking, Monitoring, & Security</b>
+  - [DHCP Server Configuration](https://github.com/simeonjackson/dhcp-config)
   - [Common Networking Commands](https://github.com/simeonjackson/networking-commands)
   - [Monitoring and Alerting in Azure](https://github.com/simeonjackson/monitor-alert)
   - [Network Analysis with Wireshark](https://github.com/simeonjackson/wireshark)
