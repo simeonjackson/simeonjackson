@@ -15,6 +15,7 @@
   - [Configuring Active Directory](https://github.com/simeonjackson/ad-configure)
   - [Active Directory Troubleshooting with Powershell](https://github.com/simeonjackson/ad-troubleshooting)
   - [Group Policy Management](https://github.com/simeonjackson/group-policy)
+  - [M365 User Management](https://github.com/simeonjackson/microsoft-365)
 - <b>Networking, Monitoring, & Security</b>
   - [DHCP Server Configuration](https://github.com/simeonjackson/dhcp-config)
   - [Common Networking Commands](https://github.com/simeonjackson/networking-commands)
